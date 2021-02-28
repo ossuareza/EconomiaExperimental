@@ -1,2 +1,2 @@
 # EconomiaExperimental
-Repositorio de prueba
+Repositorio de Economía Experimental y del Comportamiento
